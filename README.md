@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning data integration and sometimes android (my first love 😉)
 - 💞️ Ideally, I would like to be part of a project where I can learn something new to put mny knowledge into practice  
 - 📫 How to reach me ...
+       1️⃣ 
+       2️⃣
 
 <!---
 1HazArd1/1HazArd1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
