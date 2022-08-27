@@ -2,8 +2,8 @@
 - 👀 I’m interested in learning and exploring new technologies. Sky is the limit
 - 🌱 I’m currently learning data integration and sometimes android (my first love 😉)
 - 💞️ Ideally, I would like to be part of a project where I can learn something new to put mny knowledge into practice  
-- 📫 How to reach me ...
-       1️⃣ 
+- 📫 How to reach me ...  
+       1️⃣   
        2️⃣
 
 <!---
