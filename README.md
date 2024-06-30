@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Aakash Kumar Sinha   
+- 👋 Hi, I’m Aakash Sinha   
 - 👀 I’m interested in learning and exploring new technologies. Sky is the limit
-- 🌱 I’m currently working as a software engineer working with dot net
-- 💞️ Ideally, I would like to be part of a project where I can learn something new to put my knowledge into practice  
+- 🌱 I’m currently working as a software developer. OH WHO ISN't, Maybe i am brewing something out of the box
+- 💞️ I aspire to contribute to project(s) that challenges me to acquire new skills while applying my existing knowledge in practical ways
 - 📫 How to reach me ...  
        1️⃣   [LINKEDIN](https://www.linkedin.com/in/sinha-aakash-kumar/)  
        2️⃣   [TWITTER](https://twitter.com/aakwardsinha)  
